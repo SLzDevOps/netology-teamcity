@@ -6,6 +6,8 @@
 
 ### Скриншоты - https://github.com/SLzDevOps/netology-teamcity/blob/master/screenshots
 
+
+![alt text](https://github.com/SLzDevOps/netology-teamcity/blob/master/screenshots/Screenshot_48.png).
 ![alt text](https://github.com/SLzDevOps/netology-teamcity/blob/master/screenshots/Screenshot_32.png).
 ![alt text](https://github.com/SLzDevOps/netology-teamcity/blob/master/screenshots/Screenshot_33.png).
 ![alt text](https://github.com/SLzDevOps/netology-teamcity/blob/master/screenshots/Screenshot_34.png).
